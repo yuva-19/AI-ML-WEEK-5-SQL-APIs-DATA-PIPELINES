@@ -5,7 +5,7 @@
 ## Topics
 
 - [x] 1. SQL Fundamentals
-- [ ] 2. Advanced SQL
+- [x] 2. Advanced SQL
 - [ ] 3. Window Functions
 - [ ] 4. CTEs
 - [ ] 5. APIs

@@ -7,7 +7,7 @@
 - [x] 1. SQL Fundamentals
 - [x] 2. Advanced SQL
 - [x] 3. Window Functions
-- [ ] 4. CTEs
+- [x] 4. CTEs
 - [ ] 5. APIs
 - [ ] 6. Data Collection
 - [ ] 7. Data Validation

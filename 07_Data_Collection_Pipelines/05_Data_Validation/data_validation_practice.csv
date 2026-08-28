@@ -1,0 +1,12 @@
+customer_id,name,age,salary,city,status,start_date,end_date
+1,Yuva,22,50000,Chennai,active,2026-08-01,2026-08-10
+2,Arun,25,45000,Trichy,active,2026-08-03,2026-08-12
+3,Ravi,17,60000,Chennai,active,2026-08-05,2026-08-15
+4,Priya,,55000,Chennai,inactive,2026-08-02,2026-08-01
+5,Kumar,30,-5000,Salem,active,2026-08-04,2026-08-14
+6,Suresh,thirty-two,70000,Coimbatore,premium,2026-08-06,2026-08-16
+7,Meena,28,65000,Madurai,unknown,2026-08-07,2026-08-17
+8,,35,48000,Chennai,active,2026-08-08,2026-08-18
+9,Vijay,45,72000,New York,active,2026-08-09,2026-08-19
+10,Divya,29,58000,Chennai,inactive,2026-08-10,2026-08-20
+10,Divya,29,58000,Chennai,inactive,2026-08-10,2026-08-20

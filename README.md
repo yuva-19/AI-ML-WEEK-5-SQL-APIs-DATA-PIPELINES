@@ -1,4 +1,3 @@
-````markdown
 # Week 5 — SQL, APIs & Data Pipelines
 
 ## Overview
